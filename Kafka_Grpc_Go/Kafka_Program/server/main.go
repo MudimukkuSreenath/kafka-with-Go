@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/MudimukkuSreenath/kaffka_with_Go/proto"
+	"main/proto"
 
 	"github.com/segmentio/kafka-go"
 	"google.golang.org/grpc"
