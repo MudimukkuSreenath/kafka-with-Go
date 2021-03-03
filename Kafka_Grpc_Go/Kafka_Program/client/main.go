@@ -3,7 +3,7 @@ package main
 import (
 	// "strconv"
 	"fmt"
-	"Kafka_Program/proto"
+	"main/proto"
 	"log"
 	"net/http"
 
