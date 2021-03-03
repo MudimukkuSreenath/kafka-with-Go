@@ -21,7 +21,7 @@ func main() {
 }
 
 func produce(ctx context.Context) {
-	i := "Priyanshi Panchal"
+	i := "sreenath"
 
 	l := log.New(os.Stdout, "kafka writer: ", 0)
 	w := kafka.NewWriter(kafka.WriterConfig{
